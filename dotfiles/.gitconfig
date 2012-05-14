@@ -1,0 +1,25 @@
+[user]
+	name = zenorocha
+	email = zno.rocha@gmail.com
+[core]
+	quotepath = false
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	df = diff
+	dfs = diff --stat
+	cm = commit -m
+	pom = push origin master
+	pl = pull
+	ps = push
+	ad = add .
+	pso = push origin
+[color]
+	branch = auto
+	diff = auto
+	grep = auto
+	interactive = auto
+	status = auto
+[merge]
+	tool = /Applications/DiffMerge.app
