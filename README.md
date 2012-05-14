@@ -1,4 +1,4 @@
-Syncing Git, Terminal and Sublime Text's config with Dropbox.
+Syncing Git, Terminal and Sublime Text's config with [Dropbox](http://db.tt/5Bv6teoq).
 
 ---
 
@@ -7,7 +7,7 @@ Syncing Git, Terminal and Sublime Text's config with Dropbox.
 On Mac, open your terminal and get started.
 
 	cd ~/Dropbox
-	git clone git@github.com:zenorocha/sync
+	git clone git@github.com:zenorocha/sync.git
 
 ## Dotfiles
 
